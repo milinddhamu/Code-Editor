@@ -25,4 +25,3 @@ Follow these steps to get started with the Telegram authentication example:
    npm run dev
    ```
 
-![Telegram Authentication Flow](https://i.ibb.co/hHF8VWW/image.png)
