@@ -1,5 +1,5 @@
 # Code Editor Web App
-(https://code-editor-six-phi.vercel.app/ Live Link) 
+[Live Link](https://code-editor-six-phi.vercel.app/) 
 Simple example for reactJS code editor using [Monaco Editor](https://www.npmjs.com/package/@monaco-editor/react/)
 
 ## Getting Started
