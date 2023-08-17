@@ -10,8 +10,8 @@ Follow these steps to get started with the Telegram authentication example:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/TeaByte/js-playground.git
-   cd js-playground
+   git clone https://github.com/milinddhamu/Code-Editor.git
+   cd Code-Editor
    ```
 
 2. **Install Dependencies**
